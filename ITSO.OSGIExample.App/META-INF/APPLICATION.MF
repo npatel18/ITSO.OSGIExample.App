@@ -1,0 +1,10 @@
+Application-Name: ITSO.OSGIExample.App
+Application-SymbolicName: ITSO.OSGIExample.App
+Application-ManifestVersion: 1.0
+Application-Version: 1.0.0.qualifier
+Application-Content: ITSO.OSGIExample.API;version="1.0.0",
+ ITSO.OSGIExample.Client;version="1.0.0",
+ ITSO.OSGIExample.Service;version="1.0.0",
+ ITSO.OSGIExample.WebApp;version="1.0.0"
+Manifest-Version: 1.0
+
